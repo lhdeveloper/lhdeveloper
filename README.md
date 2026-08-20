@@ -24,6 +24,24 @@ Minha trajetória combina **SharePoint e SPFx**, ecossistema Microsoft 365 e des
 - Experiência com **SPFx, React, Next.js, TypeScript e Microsoft 365**
 - Foco em interfaces bem resolvidas, arquitetura sustentável e produtos com propósito
 
+## Idealizador do Mercadin
+
+<table>
+  <tr>
+    <td width="28%" valign="middle" align="center">
+      <a href="https://mercadin.online">
+        <img src="https://img.shields.io/badge/MERCADIN.ONLINE-IDEALIZADOR-030712?style=for-the-badge&labelColor=030712&color=2563EB" alt="Idealizador do Mercadin.online" />
+      </a>
+    </td>
+    <td width="72%" valign="top">
+      <p><strong>Automação de compras de supermercado com inteligência artificial.</strong></p>
+      <p>O <a href="https://mercadin.online">Mercadin</a> interpreta listas e pedidos escritos em linguagem natural, pesquisa e compara produtos nos mercados disponíveis, permite revisar as escolhas e prepara o carrinho no parceiro para a finalização da compra.</p>
+      <p>A plataforma também reúne histórico, recompra com preços atualizados, favoritos e acompanhamento de economia — sem processar pagamentos ou armazenar dados de cartão.</p>
+      <p><a href="https://mercadin.online"><strong>Acessar mercadin.online →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
 ## Experiência principal
 
 <table>
