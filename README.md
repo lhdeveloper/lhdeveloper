@@ -39,29 +39,6 @@ Minha trajetória combina **SharePoint e SPFx**, ecossistema Microsoft 365 e des
   </tr>
 </table>
 
-## Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lhdeveloper/BootStick">
-        <img src="https://raw.githubusercontent.com/lhdeveloper/BootStick/main/assets/screenshot.png" width="100%" alt="BootStick" />
-      </a>
-      <h3>BootStick</h3>
-      <p>Assistente interativo para criar mídias bootáveis do macOS e preparar a partição EFI para projetos OpenCore.</p>
-      <p><a href="https://github.com/lhdeveloper/BootStick"><strong>Ver projeto →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lhdeveloper/efi-admin">
-        <img src="https://raw.githubusercontent.com/lhdeveloper/efi-admin/main/assets/header.svg" width="100%" alt="EFI Manager" />
-      </a>
-      <h3>EFI Manager</h3>
-      <p>Painel em Next.js para diagnosticar, validar e gerenciar configurações OpenCore com mais segurança.</p>
-      <p><a href="https://github.com/lhdeveloper/efi-admin"><strong>Ver projeto →</strong></a></p>
-    </td>
-  </tr>
-</table>
-
 ## Tecnologias e ferramentas
 
 <div align="center">
