@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Luiz Rick Costa</title>
+  <desc id="description">Front-end Developer com mais de 15 anos em desenvolvimento web e mais de 12 anos em SharePoint e SPFx</desc>
+
+  <rect width="1200" height="360" fill="#04070b" />
+  <rect x="820" width="380" height="360" fill="#07111c" />
+  <rect x="819" width="1" height="360" fill="#172535" />
+
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <g transform="translate(64 38)">
+      <text x="0" y="0" fill="#5b7085" font-size="11" font-weight="700" letter-spacing="2.2">LHDEVELOPER / PROFILE</text>
+      <rect x="0" y="18" width="36" height="3" fill="#2f6b9a" />
+
+      <text x="0" y="78" fill="#e6f0f8" font-size="50" font-weight="700" letter-spacing="-1.6">Luiz (Rick) Costa</text>
+      <text x="1" y="115" fill="#cfe2f3" font-size="19" font-weight="400">Front-end Developer  ·  SharePoint / SPFx</text>
+
+      <g transform="translate(0 145)">
+        <rect width="312" height="82" fill="#0a1119" />
+        <rect width="62" height="82" fill="#082a4a" />
+        <g transform="translate(31 41)" fill="none" stroke="#cfe2f3" stroke-width="2.6" stroke-linecap="square" stroke-linejoin="miter">
+          <path d="M-5-9-15 0l10 9M5-9l10 9-10 9M4-14l-8 28" />
+        </g>
+        <text x="80" y="27" fill="#5b7085" font-size="10" font-weight="700" letter-spacing="1.35">EXPERIÊNCIA WEB</text>
+        <text x="80" y="57" fill="#e6f0f8" font-size="22" font-weight="700">15+ anos</text>
+        <text x="180" y="57" fill="#5b7085" font-size="12">desenvolvimento web</text>
+      </g>
+
+      <g transform="translate(326 145)">
+        <rect width="394" height="82" fill="#0a1119" />
+        <rect width="62" height="82" fill="#082a4a" />
+        <g transform="translate(31 41)">
+          <circle cx="7" cy="-8" r="7" fill="none" stroke="#cfe2f3" stroke-width="1.8" />
+          <circle cx="9" cy="9" r="8" fill="none" stroke="#2f6b9a" stroke-width="1.8" />
+          <rect x="-16" y="-17" width="21" height="34" fill="#2f6b9a" />
+          <text x="-5.5" y="7" text-anchor="middle" fill="#ffffff" font-size="18" font-weight="700">S</text>
+        </g>
+        <text x="80" y="27" fill="#5b7085" font-size="10" font-weight="700" letter-spacing="1.35">SHAREPOINT / SPFx</text>
+        <text x="80" y="57" fill="#e6f0f8" font-size="22" font-weight="700">12+ anos</text>
+        <text x="180" y="57" fill="#5b7085" font-size="12">em soluções corporativas</text>
+      </g>
+
+      <g transform="translate(0 260)">
+        <text x="0" y="0" fill="#5b7085" font-size="10" font-weight="700" letter-spacing="1.5">STACK PRINCIPAL</text>
+        <text x="0" y="28" fill="#cfe2f3" font-size="13" font-weight="500" letter-spacing=".45">REACT</text>
+        <rect x="58" y="17" width="1" height="12" fill="#233447" />
+        <text x="76" y="28" fill="#cfe2f3" font-size="13" font-weight="500" letter-spacing=".45">NEXT.JS</text>
+        <rect x="145" y="17" width="1" height="12" fill="#233447" />
+        <text x="163" y="28" fill="#cfe2f3" font-size="13" font-weight="500" letter-spacing=".45">TYPESCRIPT</text>
+        <rect x="263" y="17" width="1" height="12" fill="#233447" />
+        <text x="281" y="28" fill="#cfe2f3" font-size="13" font-weight="500" letter-spacing=".45">MICROSOFT 365</text>
+      </g>
+    </g>
+
+    <g transform="translate(844 0)">
+      <rect width="332" height="54" fill="#082a4a" />
+      <text x="18" y="23" fill="#ffffff" font-size="11" font-weight="700" letter-spacing="1.8">CORE STACK</text>
+      <text x="18" y="41" fill="#cfe2f3" font-size="10">Tecnologias e plataforma</text>
+
+      <g transform="translate(0 70)">
+        <rect width="332" height="55" fill="#0b1723" />
+        <text x="16" y="32" fill="#5b7085" font-size="10" font-weight="700">01</text>
+        <rect x="48" y="11" width="34" height="34" fill="#10283c" />
+        <text x="65" y="33" text-anchor="middle" fill="#cfe2f3" font-size="12" font-weight="700">R</text>
+        <text x="99" y="25" fill="#e6f0f8" font-size="13" font-weight="700">React</text>
+        <text x="99" y="41" fill="#5b7085" font-size="10">UI / COMPONENTS</text>
+      </g>
+
+      <g transform="translate(0 126)">
+        <rect width="332" height="55" fill="#09131e" />
+        <text x="16" y="32" fill="#5b7085" font-size="10" font-weight="700">02</text>
+        <rect x="48" y="11" width="34" height="34" fill="#10283c" />
+        <text x="65" y="33" text-anchor="middle" fill="#cfe2f3" font-size="12" font-weight="700">N</text>
+        <text x="99" y="25" fill="#e6f0f8" font-size="13" font-weight="700">Next.js</text>
+        <text x="99" y="41" fill="#5b7085" font-size="10">APP / SERVER</text>
+      </g>
+
+      <g transform="translate(0 182)">
+        <rect width="332" height="55" fill="#0b1723" />
+        <text x="16" y="32" fill="#5b7085" font-size="10" font-weight="700">03</text>
+        <rect x="48" y="11" width="34" height="34" fill="#10283c" />
+        <text x="65" y="33" text-anchor="middle" fill="#cfe2f3" font-size="10" font-weight="700">TS</text>
+        <text x="99" y="25" fill="#e6f0f8" font-size="13" font-weight="700">TypeScript</text>
+        <text x="99" y="41" fill="#5b7085" font-size="10">LANGUAGE / TYPES</text>
+      </g>
+
+      <g transform="translate(0 238)">
+        <rect width="332" height="55" fill="#09131e" />
+        <text x="16" y="32" fill="#5b7085" font-size="10" font-weight="700">04</text>
+        <g transform="translate(48 11)">
+          <rect width="16" height="16" fill="#2f6b9a" />
+          <rect x="18" width="16" height="16" fill="#5b7085" />
+          <rect y="18" width="16" height="16" fill="#5b7085" />
+          <rect x="18" y="18" width="16" height="16" fill="#082a4a" />
+        </g>
+        <text x="99" y="25" fill="#e6f0f8" font-size="13" font-weight="700">Microsoft 365</text>
+        <text x="99" y="41" fill="#5b7085" font-size="10">SHAREPOINT / PLATFORM</text>
+      </g>
+
+      <text x="0" y="329" fill="#5b7085" font-size="10" font-weight="700" letter-spacing="1.8">@LHDEVELOPER</text>
+      <rect x="118" y="322" width="214" height="1" fill="#233447" />
+    </g>
+  </g>
+</svg>
